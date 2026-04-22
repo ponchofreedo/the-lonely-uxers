@@ -1,2 +1,4 @@
 # the-lonely-uxers
-Landing page for The Lonely UXers Discord Community. Built with Astro and much love.
+Landing page and community guidelines hub for The Lonely UXers Discord Community.
+
+Intending to build with Astro and much love.
